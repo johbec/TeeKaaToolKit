@@ -4,7 +4,7 @@
 echo '###################################################################################'
 echo '###################################################################################'
 echo '>>>> TeeKaaToolKit: A git clone script of useful tools                         <<<<'
-echo '>>>> VERSION: 1.3                                                              <<<<'
+echo '>>>> VERSION: 1.5                                                              <<<<'
 echo '>>>> AUTHOR:Brought to you by Johan BECKER a.k.a TeeKaa                        <<<<'
 echo '$$$$ Tested with zsh 5.8 (x86_64-debian-linux-gnu)                             $$$$'
 echo '$$$$ and "Oh My Zsh" https://github.com/ohmyzsh/ohmyzsh.git ~/.oh-my-zsh       $$$$'
@@ -33,6 +33,15 @@ echo '##########################################################################
 #1.4
 echo '######## USEFUL GIT REPO TO FOLLOW  https://github.com/0x90E/0x90E.github.io ######'
 echo '###################################################################################'
+#1.5
+git clone --recursive git@github.com:CISOfy/lynis.git
+git clone --recursive git@github.com:trustedsec/pivoter.git
+git clone --recursive git@github.com:trustedsec/hardcidr.git
+git clone --recursive git@github.com:trustedsec/egressbuster.git
+git clone --recursive git@github.com:johbec/PayloadsAllTheThings.git
+git clone --recursive git@github.com:danielmiessler/SecLists.git
+git clone --recursive git@github.com:BloodHoundAD/BloodHound.git
+git clone --recursive git@github.com:lanmaster53/recon-ng.git
 git clone --recursive git@github.com:DanMcInerney/LANs.py.git
 git clone --recursive git@github.com:thomhastings/os-scripts.git
 git clone --recursive git@github.com:0x90/wifi-arsenal.git
