@@ -144,6 +144,36 @@ git clone --recursive git@github.com:mzet-/linux-exploit-suggester.git
 git clone --recursive git@github.com:jondonas/linux-exploit-suggester-2.git
 git clone --recursive git@github.com:offensive-security/exploitdb.git
 ############# 1.2
+#
+##1.6
+git clone --recursive git@github.com:apache/mynewt-newt.git
+git clone --recursive git@github.com:apache/mynewt-core.git
+git clone --recursive git@github.com:johbec/awesome-open-iot.git
+git clone --recursive git@github.com:johbec/BLE-Hack.git
+git clone --recursive git@github.com:johbec/PayloadsAllTheThings.git
+git clone --recursive git@github.com:ConnectivityFoundry/AwaLWM2M.git
+git clone --recursive git@github.com:johbec/btlejack.git
+git clone --recursive git@github.com:johbec/internalblue.git
+git clone --recursive git@github.com:johbec/vlany.git
+git clone --recursive git@github.com:johbec/kernel-exploits.git
+git clone --recursive git@github.com:johbec/Unix-Privilege-Escalation-Exploits-Pack.git
+git clone --recursive git@github.com:johbec/linux-exploit-suggester-2.git
+git clone --recursive git@github.com:johbec/btlejack.git
+git clone --recursive git@github.com:johbec/awesome.git
+git clone --recursive git@github.com:johbec/awesome-vehicle-security.git
+git clone --recursive git@github.com:johbec/wuzz.git
+git clone --recursive git@github.com:johbec/Red-Team-Infrastructure-Wiki.git
+git clone --recursive git@github.com:johbec/awesome-open-iot.git
+git clone --recursive git@github.com:johbec/bdvl.git
+git clone --recursive git@github.com:johbec/polypyus.git
+git clone --recursive git@github.com:johbec/github-search.git
+git clone --recursive git@github.com:johbec/CursedChrome.git
+git clone --recursive git@github.com:johbec/awesome-embedded-and-iot-security.git
+git clone --recursive git@github.com:johbec/ubertooth.git
+git clone --recursive git@github.com:johbec/frankenstein.git
+git clone --recursive git@github.com:johbec/linux-exploit-binaries.git
+
+#
 echo '**********************************   DONE!!!!   ***********************************'
 echo 'IMPORTANT INFORMATION:                                                            #'
 echo 'YOU NEED TO FORK THESE REPORSITORIES IN ORDER TO CLONE THEM.                      #'
