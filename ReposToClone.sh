@@ -176,7 +176,7 @@ git clone --recursive git@github.com:johbec/linux-exploit-binaries.git
 #
 echo '**********************************   DONE!!!!   ***********************************'
 echo 'IMPORTANT INFORMATION:                                                            #'
-echo 'YOU NEED TO FORK THESE REPORSITORIES IN ORDER TO CLONE THEM.                      #'
+echo 'YOU NEED TO FORK THESE REPOSITORIES IN ORDER TO CLONE THEM.                       #'
 echo 'VISIT THE LINKS, FORK THEM TO YOU ACCOUNT, THEN USE GIT CLONE ON YOUR REPOSITORY  #'
 echo '###################################################################################'
 echo '# https://github.com/wi-fi-analyzer/FrankenScript/                                #'
